@@ -38,11 +38,6 @@ No database, no server — just **pure JavaScript + Local Storage**.
 
 ---
 
-## 📸 Preview
-
-![Tasks.io Screenshot](https://via.placeholder.com/800x400?text=Tasks.io+Preview)
-
----
 
 ## 📦 Installation (Optional)
 
